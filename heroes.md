@@ -9,3 +9,4 @@
 * Volcán Negro
 * Spiderman
 * Volcan Negro
+* Hulk
