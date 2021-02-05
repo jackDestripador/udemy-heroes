@@ -10,4 +10,5 @@
 * Spiderman
 * Volcan Negro
 * Hulk
-*Atom
+* Atom
+* Flash
